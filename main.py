@@ -1,0 +1,2 @@
+import openai
+set OPENAI_API_KEY="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"
